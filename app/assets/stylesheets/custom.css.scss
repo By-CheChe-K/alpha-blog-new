@@ -39,8 +39,13 @@ $navbar-default-bg: #491b03;
   background-color: #491b03;
 }
 
+.article-meta-details {
+  border-top: 1px solid #eaeaea;
+  margin-top: 15px;
+}
+
 .article-actions {
-  border-top: 1px solid #f99d6c;
+  border-top: 1px solid #eaeaea;
   padding-top: 5px;
 }
 
@@ -53,7 +58,7 @@ $navbar-default-bg: #491b03;
 }
 
 .article-body {
-  border-top: 1px solid #f99d6c;
+  border-top: 1px solid #eaeaea;
   padding-top: 15px;
   padding-bottom: 15px;
 }
